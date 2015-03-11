@@ -1,0 +1,9 @@
+{
+  "siteTitle": "HTML5 Boilerplate for Jade",
+  "404": {
+    "layout": false
+  },
+  "index": {
+    "pageTitle": "Index Page Title"
+  }
+}
